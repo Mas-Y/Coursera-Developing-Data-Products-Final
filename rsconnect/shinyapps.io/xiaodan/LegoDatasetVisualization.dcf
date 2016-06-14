@@ -1,0 +1,6 @@
+name: LegoDatasetVisualization
+account: xiaodan
+bundleId: 165639
+url:
+      http://xiaodan.shinyapps.io/LegoDatasetVisualization
+server: shinyapps.io
